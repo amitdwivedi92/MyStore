@@ -3,3 +3,5 @@
 ################################################################################
 
 /MyStore/MyStore.Web/bin
+/MyStore/MyStore.Web/obj/Debug
+/MyStore/packages
